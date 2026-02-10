@@ -1,0 +1,78 @@
+/* Change la couleur du navbar */
+.custom-navbar { background-color: #0A5AA3; }
+
+/* Change la couleur du titre & sous-titre */
+.text-center { color: #2C2C2C; }
+
+/* Arrondi commun à toutes les images produits */
+.product-image { border-radius: 1rem; }
+
+/* Rendre les nav-link blanc */
+.custom-navbar .nav-link { color: #ffffff; }
+
+/* Change la couleur des nav-link lorsque le curseur est dessus */
+.custom-navbar .nav-link:hover,
+.custom-navbar .nav-link:focus,
+.custom-navbar .nav-link.active {
+  color: #2C2C2C;
+}
+
+/* Couleur du titre des produits */
+.product-title { color: #ffffff; }
+
+/* Couleur du bouton boutique */
+.btn-shop {
+  background-color: #0A5AA3;
+  color: white;
+}
+
+/* Taille de l'icône panier */
+.nav-icon {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+
+/* Animation de l'icône panier */
+.nav-icon { transition: transform 0.2s ease; }
+.nav-link:hover .nav-icon { transform: scale(1.1); }
+
+.btn-monitor {
+  background-color: white;
+  color: #0A5AA3;
+}
+
+.btn-keybord {
+  background-color: white;
+  color: black;
+}
+
+.product-title-4 { color: #2C2C2C; }
+.btn-detail-p4 { background-color: #2C2C2C; }
+.btn-add-p4 { 
+  background-color: white; 
+  color: #2C2C2C ;
+}
+
+.btn-detail-p5 { 
+  background-color: white;
+  color: black; 
+}
+
+.product-title-6 { color: white; }
+.btn-detail-p6 {
+  background-color: white;
+  color: black; 
+}
+
+.btn-detail-p7 { 
+  background-color: white; 
+  color: black;
+}
+
+.link-connection { 
+  color: blue;
+  text-decoration: none; 
+}
+
+.question-connexion { color: #7B7B7B; }
