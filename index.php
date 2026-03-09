@@ -15,14 +15,14 @@
       <a class="navbar-brand" href="index.html">ShopDirect</a>
       <div class="collapse navbar-collapse show">
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item"><a class="nav-link" href="view-user.html">Boutique</a></li>
+          <li class="nav-item"><a class="nav-link" href="view-user.php">Boutique</a></li>
           <li class="nav-item"><a class="nav-link" href="">Moniteur</a></li>
           <li class="nav-item"><a class="nav-link" href="">Clavier</a></li>
           <li class="nav-item"><a class="nav-link" href="">PC</a></li>
           <li class="nav-item"><a class="nav-link" href="">Tablettes</a></li>
           <li class="nav-item"><a class="nav-link" href="">Accessoires</a></li>
           <li class="nav-item"><a class="nav-link" href="">Support</a></li>
-          <li class="nav-item"><a class="nav-link" href="view-admin.html">Vision administrateur</a></li>
+          <li class="nav-item"><a class="nav-link" href="view-admin.php">Vision administrateur</a></li>
           <li class="nav-item"><a class="nav-link" href="panier.html"><img src="assets/img/logo-panier.png" alt="Panier"
                                                                         class="nav-icon"></a></li>
         </ul>

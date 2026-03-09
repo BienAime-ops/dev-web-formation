@@ -21,7 +21,7 @@
   <!-- ===================== NAVBAR ===================== -->
   <nav class="navbar navbar-dark custom-navbar px-3">
     <span class="navbar-brand fw-bold">ShopDirect – Administration</span>
-    <a href="index.html" class="btn btn-outline-light btn-sm">Retour au site</a>
+    <a href="index.php" class="btn btn-outline-light btn-sm">Retour au site</a>
   </nav>
 
   <!-- ===================== LAYOUT ===================== -->
